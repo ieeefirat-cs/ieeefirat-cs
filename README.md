@@ -6,7 +6,7 @@
 <p align="center">You can review our work in our <a href="https://github.com/IEEEFiratComputerSociety" target="_blank"> organization profile.</a></p>
 
 <div align="center">
-
+ 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ieeefirat-cs&show_icons=true&theme=tokyonight&)
 
 ![Visit Counter](https://komarev.com/ghpvc/?username=ieeefirat-cs&color=brightgreen&style=flat&label=Profile+Views)
@@ -17,7 +17,7 @@
 
 <h1 align="center">Founding Team</h1>
 </br>
-<h2 align="center"><a href="https://github.com/fatihgurel" target="_blank">Fatih Gürel</a></h2>
+<h4 align="center"><a href="https://github.com/fatihgurel" target="_blank">Fatih Gürel</a></h4>
 <p align="center">Founding President</p>
 </br>
 <div align="center">
