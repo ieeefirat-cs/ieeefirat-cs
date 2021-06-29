@@ -1,90 +1,42 @@
-<style>
-.title{
-    display :flex;
-    justify-content:center;
-    align-items:center;
-}
-h4,h3,h1{
-    text-align:center;
-}
+<h1 align="center">Hi there, Welcome to IEEE Firat Computer Society! <img src="https://image.flaticon.com/icons/png/512/434/434704.png" width="44"/>
+</h1>
 
-h3{
-    padding-bottom: 1rem;
-    border-bottom:1px solid #ddd;
-}
+<h4 align="center">Hello,<img height="30" src="https://image.flaticon.com/icons/png/512/434/434682.png" target="_blank"> this profile includes projects developed by members of the IEEE Firat Computer Society <img height="30" src="https://image.flaticon.com/icons/png/512/434/434691.png" target="_blank">.</h4>
 
-.table-wrapper {
-    width:100%;
-}
+<p align="center">You can review our work in our <a href="https://github.com/IEEEFiratComputerSociety" target="_blank"> organization profile.</a></p>
 
-
-.viewer{
-    display :flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-    padding: 2rem 0;
-}
-ul{
-    display :flex;
-    justify-content:space-between;
-    align-items:center;
-}
-li{
-    list-style:none;
-    display :flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-}
-a{
-    font-weight:bold;
-    color:lightblue;
-    text-align:center;
-}
-p{
-    font-weight:bold;
-    color:black;
-    text-align:center;
-}
-</style>
-<div class="title">
-<img height="50" src="https://image.flaticon.com/icons/png/512/434/434704.png" target="_blank">
-</div>
-<h1>Hi there, Welcome to IEEE Firat Computer Society</h1>
-
-<h4>Hello,<img height="30" src="https://image.flaticon.com/icons/png/512/434/434682.png" target="_blank"> this profile includes projects developed by members of the IEEE Firat Computer Society <img height="30" src="https://image.flaticon.com/icons/png/512/434/434691.png" target="_blank">.</h4>
-
-<p>You can review our work in our <a href="https://github.com/IEEEFiratComputerSociety" target="_blank"> organization profile.</a></p>
-
-<div class="viewer">
+<div align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ieeefirat-cs&show_icons=true&theme=tokyonight&)
+
 ![Visit Counter](https://komarev.com/ghpvc/?username=ieeefirat-cs&color=brightgreen&style=flat&label=Profile+Views)
 
 </div>
 
-<h3>Founding Team</h3>
+</br>
 
-<div class="row">
-<h4><a href="https://github.com/fatihgurel" target="_blank">Fatih Gürel</a></h4>
-<p>Founding President</p>
+<h1 align="center">Founding Team</h1>
+</br>
+<h2 align="center"><a href="https://github.com/fatihgurel" target="_blank">Fatih Gürel</a></h2>
+<p align="center">Founding President</p>
+</br>
+<div align="center">
+    &nbsp;&nbsp; &nbsp; &nbsp; 
+    <div style="display: inline-block;">
+        <a href="https://github.com/seyitErdemir" target="_blank"> Seyit Erdemir</a>
+        <p>Web Programming Team Leader</p>
+    </div>
+    &nbsp;&nbsp; &nbsp; &nbsp; 
+    <div style="display: inline-block;">
+        <a href="https://github.com/Nurefsan-565" target="_blank"> Nurefşan Nur </a>
+        <p>Mobile Programming Team Leader</p>
+    </div>
+    &nbsp; &nbsp; &nbsp; &nbsp; 
+    <div style="display: inline-block;">
+        <a href="https://github.com/CANkrdmr" target="_blank"> Can Karademir</a>
+        <p>Desktop Programming Team Leader</p>
+    </div>
 </div>
-<div class="table-wrapper">
-<ul>
-<li>
-<a href="https://github.com/seyitErdemir" target="_blank"> Seyit Erdemir</a>
-<p>Web Programming Team Leader</p>
-</li>
-<li>
-<a href="https://github.com/Nurefsan-565" target="_blank"> Nurefşan Nur </a>
-<p>Mobile Programming Team Leader</p></li>
-<li>
-<a href="https://github.com/CANkrdmr" target="_blank"> Can Karademir</a>
-<p>Desktop Programming Team Leader</p></li>
-</ul>
-</div>
-
 
 <h2 align="center">
 
