@@ -33,7 +33,7 @@
     </div>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <div style="display: inline-block;">
-        <a href="https://github.com/cankardemir" target="_blank"> Can Karademir</a>
+        <a href="https://github.com/cankarademir" target="_blank"> Can Karademir</a>
         <p>Desktop Programming Team Leader</p>
     </div>
 </div>
